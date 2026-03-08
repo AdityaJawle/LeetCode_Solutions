@@ -14,3 +14,14 @@ Each folder contains:
 - the problem name
 - link to the problem
 - brief explanation
+
+## Table of Contents
+- [Java](#java)
+- [MySQL](#mysql)
+- [OracleSQL](#oraclesql)
+
+## Progress
+✅ 20/3864 Problems Solved
+- Easy: 18
+- Medium: 2
+- Hard: 0
