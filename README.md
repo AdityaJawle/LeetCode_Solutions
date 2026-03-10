@@ -21,7 +21,7 @@ Each folder contains:
 - [OracleSQL](#oraclesql)
 
 ## Progress
-✅ 20/3864 Problems Solved
+✅ 23/3864 Problems Solved
 - Easy: 21
 - Medium: 2
 - Hard: 0
