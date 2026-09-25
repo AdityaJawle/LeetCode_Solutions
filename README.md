@@ -26,8 +26,6 @@ Each folder contains:
 - Easy: 25
 - Medium: 2
 - Hard: 0
-<!---LeetCode Topics Start-->
-# LeetCode Topics
 ## Array
 |  |
 | ------- |
