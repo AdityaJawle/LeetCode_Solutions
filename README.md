@@ -22,8 +22,8 @@ Each folder contains:
 
 ## Progress
 
-✅ 27/3864 Problems Solved
-- Easy: 25
+✅ 28/3864 Problems Solved
+- Easy: 26
 - Medium: 2
 - Hard: 0
 ## Array
